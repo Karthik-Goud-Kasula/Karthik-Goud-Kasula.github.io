@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karthik-goud-kasula.github.io/sitemap.xml
